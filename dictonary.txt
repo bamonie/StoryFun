@@ -1,10 +1,11 @@
 Auto = car
 Flughafen = Airport
 Hübsch = nice
-hotel = hotel
+hauptstrasse = main road
 Essen = food
 kultur = culture
 Menschen = people
 Umfeld = environment
 Natur = nature
 Zeit = time
+schloss = lock
