@@ -1,0 +1,10 @@
+Auto = car
+Flughafen = Airport
+Hübsch = nice
+hotel = hotel
+Essen = food
+kultur = culture
+Menschen = people
+Umfeld = environment
+Natur = nature
+Zeit = time
